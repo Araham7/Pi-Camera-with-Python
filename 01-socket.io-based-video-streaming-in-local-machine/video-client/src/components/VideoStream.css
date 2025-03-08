@@ -1,0 +1,9 @@
+.video-stream {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .video-stream img {
+    border: 2px solid #333;
+    border-radius: 10px;
+  }
